@@ -1,6 +1,6 @@
 # Calculadora
 O software Calculadora foi a primeira interface de interação com o usuário que desenvolvi. Apesar de ser um software bem simples, é bastante funcional e demonstra o quanto um programa com poucas linhas pode ser tão útil.   
-No código do programa foi usado apenas a calculadora tkinter.
+No código do programa foi usado apenas a biblioteca tkinter.
 A respeito dessa biblioteca, considero relevante destacar alguns comandos que foram usados nesse programa e que serão usados nos próximos programas (e certamente na versão final do software desenvolvido nesse projeto).   Esses comandos são:
 
 * **janela=tk.Tk():**
